@@ -1,5 +1,5 @@
-
 name: cross
 
-- hello:
-  github: maltewi/hello
+version_control:
+  - hello: 
+    github: maltewi/hello
